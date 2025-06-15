@@ -142,8 +142,11 @@
         <mxCell id="CeWunoRhKvFKMnr5rGjz-38" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;依赖权限继承&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="950" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="CeWunoRhKvFKMnr5rGjz-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CeWunoRhKvFKMnr5rGjz-39" target="CeWunoRhKvFKMnr5rGjz-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CeWunoRhKvFKMnr5rGjz-39" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;显式授权覆盖&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1060.5" y="900" width="150" height="60" as="geometry" />
+          <mxGeometry x="1060.5" y="900" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CeWunoRhKvFKMnr5rGjz-40" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;权限分配表构建&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060.5" y="1040" width="150" height="60" as="geometry" />
