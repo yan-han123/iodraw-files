@@ -205,7 +205,7 @@
         <mxCell id="CeWunoRhKvFKMnr5rGjz-86" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;社群画像模型构建&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="337.5" y="1330" width="215" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CeWunoRhKvFKMnr5rGjz-87" value="Louvian社群发现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CeWunoRhKvFKMnr5rGjz-87" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Louvian&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;社群发现&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
