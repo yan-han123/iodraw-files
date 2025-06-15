@@ -194,10 +194,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CeWunoRhKvFKMnr5rGjz-81" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;语义分类&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="2180" width="120" height="40" as="geometry" />
+          <mxGeometry x="870" y="2170" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CeWunoRhKvFKMnr5rGjz-82" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;关系图谱&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="865" y="2270" width="120" height="40" as="geometry" />
+          <mxGeometry x="865" y="2270" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CeWunoRhKvFKMnr5rGjz-83" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;特征标准化处理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1130" y="2110" width="180" height="30" as="geometry" />
@@ -252,9 +252,6 @@
         </mxCell>
         <mxCell id="CeWunoRhKvFKMnr5rGjz-103" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;冲突检测与消解&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="725" y="1040" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CeWunoRhKvFKMnr5rGjz-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CeWunoRhKvFKMnr5rGjz-82" target="CeWunoRhKvFKMnr5rGjz-82">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
