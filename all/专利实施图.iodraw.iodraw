@@ -149,13 +149,13 @@
           <mxGeometry x="900" y="1560" width="390" height="190" as="geometry" />
         </mxCell>
         <mxCell id="CeWunoRhKvFKMnr5rGjz-36" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;动态依赖校验&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="1850" width="150" height="60" as="geometry" />
+          <mxGeometry x="1020" y="1820" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CeWunoRhKvFKMnr5rGjz-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CeWunoRhKvFKMnr5rGjz-37" target="CeWunoRhKvFKMnr5rGjz-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CeWunoRhKvFKMnr5rGjz-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="907.5" width="150" height="170" as="geometry" />
+          <mxGeometry x="250" y="860" width="200" height="217.5" as="geometry" />
         </mxCell>
         <mxCell id="CeWunoRhKvFKMnr5rGjz-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CeWunoRhKvFKMnr5rGjz-38" target="CeWunoRhKvFKMnr5rGjz-39">
           <mxGeometry relative="1" as="geometry" />
