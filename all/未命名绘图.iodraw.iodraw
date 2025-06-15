@@ -26,7 +26,7 @@
           <mxGeometry x="250" y="2590" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CeWunoRhKvFKMnr5rGjz-8" value="协同场景信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="550" y="2600" width="100" height="60" as="geometry" />
+          <mxGeometry x="560" y="2600" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CeWunoRhKvFKMnr5rGjz-9" value="数据属性信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="920" y="2600" width="130" height="60" as="geometry" />
