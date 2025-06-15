@@ -88,6 +88,9 @@
         <mxCell id="CeWunoRhKvFKMnr5rGjz-32" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;最优角色选择&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="1730" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="CeWunoRhKvFKMnr5rGjz-33" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;数据分类聚类&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="1340" width="150" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
