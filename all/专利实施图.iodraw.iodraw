@@ -211,8 +211,8 @@
         <mxCell id="CeWunoRhKvFKMnr5rGjz-92" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;向量化表示&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="1650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CeWunoRhKvFKMnr5rGjz-93" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;向量化表示&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1660" width="120" height="60" as="geometry" />
+        <mxCell id="CeWunoRhKvFKMnr5rGjz-93" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;相似度计算&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
