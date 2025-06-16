@@ -277,7 +277,7 @@
         <mxCell id="CeWunoRhKvFKMnr5rGjz-102" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;规则筛选与匹配&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="647.5" y="930" width="192.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CeWunoRhKvFKMnr5rGjz-103" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;冲突检测与消解&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CeWunoRhKvFKMnr5rGjz-103" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;权限集合生成&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="641.25" y="1060" width="177.5" height="60" as="geometry" />
         </mxCell>
       </root>
