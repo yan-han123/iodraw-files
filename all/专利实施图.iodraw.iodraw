@@ -238,7 +238,7 @@
         <mxCell id="CeWunoRhKvFKMnr5rGjz-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CeWunoRhKvFKMnr5rGjz-92" target="CeWunoRhKvFKMnr5rGjz-93" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CeWunoRhKvFKMnr5rGjz-92" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;向量化表示&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CeWunoRhKvFKMnr5rGjz-92" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;向量化&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;表示&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="1650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CeWunoRhKvFKMnr5rGjz-93" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;相似度&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;计算&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
