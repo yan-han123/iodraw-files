@@ -95,7 +95,10 @@
           <mxGeometry x="520" y="820" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="960" width="560" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-35" value="权限分配与控制" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="960" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
