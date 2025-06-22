@@ -133,7 +133,7 @@
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-47" value="PostgreSQL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="1590" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-48" value="用户数据" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-48" value="权限规则库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="374" y="1520" width="80" height="70" as="geometry" />
         </mxCell>
       </root>
