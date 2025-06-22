@@ -128,7 +128,7 @@
           <mxGeometry x="80" y="1450" width="640" height="260" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-46" value="PostgreSQL" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1520" width="80" height="70" as="geometry" />
+          <mxGeometry x="360" y="1390" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-47" value="用户数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="1590" width="60" height="30" as="geometry" />
@@ -155,7 +155,10 @@
           <mxGeometry x="790" y="1520" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1480" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="1350" width="240" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-57" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1480" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
