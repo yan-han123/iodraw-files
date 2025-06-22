@@ -417,10 +417,13 @@
           <mxGeometry x="710" y="930" width="85" height="110" as="geometry" />
         </mxCell>
         <mxCell id="AxBYcliP2vtahwb_jyaf-16" value="构造候选角色分布集合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="708" y="1100" width="100" height="40" as="geometry" />
+          <mxGeometry x="695" y="1080" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AxBYcliP2vtahwb_jyaf-17" value="DTW比较行为路径" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460.5" y="1129" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AxBYcliP2vtahwb_jyaf-18" value="构造候选角色分布集合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1169" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
