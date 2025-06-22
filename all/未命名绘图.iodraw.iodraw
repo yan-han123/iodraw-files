@@ -314,7 +314,7 @@
           <mxGeometry x="399.5" y="320" width="80.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-136" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="443" y="370" width="247" height="140" as="geometry" />
+          <mxGeometry x="443" y="370" width="277" height="140" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-137" value="用户输入数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="521.5" y="370" width="83" height="30" as="geometry" />
@@ -338,7 +338,7 @@
           <mxGeometry x="560" y="420" width="82" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-145" value="协同场景信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
-          <mxGeometry x="570" y="430" width="82" height="60" as="geometry" />
+          <mxGeometry x="657" y="420" width="82" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
