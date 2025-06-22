@@ -14,7 +14,7 @@
           <mxGeometry x="120" y="230" width="850" height="210" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-79" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="270" width="120" height="150" as="geometry" />
+          <mxGeometry x="825" y="270" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-76" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="270" width="120" height="150" as="geometry" />
@@ -59,10 +59,10 @@
           <mxGeometry x="550" y="370" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-13" value="MinMAX归一化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="305" width="100" height="40" as="geometry" />
+          <mxGeometry x="835" y="305" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-14" value="PCA降维" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="370" width="100" height="40" as="geometry" />
+          <mxGeometry x="835" y="370" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="480" width="280" height="400" as="geometry" />
@@ -197,7 +197,7 @@
           <mxGeometry x="560" y="270" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-83" value="标准化处理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="270" width="80" height="30" as="geometry" />
+          <mxGeometry x="845" y="270" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="1500" width="140" height="120" as="geometry" />
