@@ -346,8 +346,8 @@
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-148" value="用户数据权限分配表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
           <mxGeometry x="1113" y="420" width="82" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-149" value="历史操作数据" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
-          <mxGeometry x="813" y="430" width="82" height="60" as="geometry" />
+        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-149" value="社群画像" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="904" y="420" width="82" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
