@@ -224,13 +224,13 @@
           <mxGeometry x="950.5" y="1910" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="1870" width="140" height="120" as="geometry" />
+          <mxGeometry x="1070" y="1870" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-85" value="Neo4j" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="1870" width="70" height="30" as="geometry" />
+          <mxGeometry x="1070" y="1870" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-86" value="数据结构图" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1180" y="1910" width="80" height="60" as="geometry" />
+          <mxGeometry x="1201" y="1910" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="wpN_ip4xTsXW7F0Ydhbx-113" target="wpN_ip4xTsXW7F0Ydhbx-121" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -390,6 +390,9 @@
             <mxPoint x="1000" y="180" as="sourcePoint" />
             <mxPoint x="1050" y="130" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AxBYcliP2vtahwb_jyaf-2" value="社群画像" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="824" y="1920" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
