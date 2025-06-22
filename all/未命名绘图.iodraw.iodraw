@@ -22,31 +22,14 @@
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-4" value="特征提取" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="230" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="270" width="120" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wpN_ip4xTsXW7F0Ydhbx-6" target="wpN_ip4xTsXW7F0Ydhbx-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-6" value="pandas用户数据处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="305" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wpN_ip4xTsXW7F0Ydhbx-7" target="wpN_ip4xTsXW7F0Ydhbx-9">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-7" value="OneHotEncoder编码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="370" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wpN_ip4xTsXW7F0Ydhbx-9" target="wpN_ip4xTsXW7F0Ydhbx-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-9" value="时序特征提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="335" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="wpN_ip4xTsXW7F0Ydhbx-76">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="614" y="355" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-10" value="Transformer建模" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="335" width="100" height="40" as="geometry" />
@@ -192,9 +175,6 @@
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.498;entryY=0.615;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wpN_ip4xTsXW7F0Ydhbx-13" target="wpN_ip4xTsXW7F0Ydhbx-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-81" value="用户数据解析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="270" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-82" value="数据属性解析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="270" width="80" height="30" as="geometry" />
         </mxCell>
@@ -221,6 +201,24 @@
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-92" value="映射生成权限集合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="1169" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-94" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="140" y="270" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wpN_ip4xTsXW7F0Ydhbx-94">
+          <mxGeometry width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="wpN_ip4xTsXW7F0Ydhbx-94" source="wpN_ip4xTsXW7F0Ydhbx-6" target="wpN_ip4xTsXW7F0Ydhbx-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-6" value="pandas用户数据处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wpN_ip4xTsXW7F0Ydhbx-94">
+          <mxGeometry x="10" y="35" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-7" value="OneHotEncoder编码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wpN_ip4xTsXW7F0Ydhbx-94">
+          <mxGeometry x="10" y="100" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-81" value="用户数据解析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wpN_ip4xTsXW7F0Ydhbx-94">
+          <mxGeometry x="20" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
