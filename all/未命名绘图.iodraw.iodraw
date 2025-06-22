@@ -337,8 +337,8 @@
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-144" value="协同场景信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
           <mxGeometry x="560" y="420" width="82" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-145" value="协同场景信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
-          <mxGeometry x="657" y="420" width="82" height="60" as="geometry" />
+        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-146" value="数据对象信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="770" y="420" width="82" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
