@@ -316,6 +316,9 @@
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-136" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="443" y="370" width="247" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-137" value="用户输入数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="521.5" y="370" width="83" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
