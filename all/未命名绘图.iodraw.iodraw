@@ -343,6 +343,9 @@
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-147" value="历史操作数据" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
           <mxGeometry x="803" y="420" width="82" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-148" value="历史操作数据" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="1048" y="420" width="82" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
