@@ -313,6 +313,9 @@
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-133" value="&lt;b&gt;Web端应用层&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="399.5" y="320" width="80.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-134" value="Container" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="437" y="360" width="200" height="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
