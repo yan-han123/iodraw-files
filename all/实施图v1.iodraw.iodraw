@@ -417,7 +417,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AxBYcliP2vtahwb_jyaf-6" value="加权融合多维相似度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="595" y="1150" width="100" height="40" as="geometry" />
+          <mxGeometry x="590" y="1150" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AxBYcliP2vtahwb_jyaf-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AxBYcliP2vtahwb_jyaf-11" target="AxBYcliP2vtahwb_jyaf-15">
           <mxGeometry relative="1" as="geometry">
@@ -429,14 +429,17 @@
         <mxCell id="AxBYcliP2vtahwb_jyaf-11" value="社群画像模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="930" width="85" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="AxBYcliP2vtahwb_jyaf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AxBYcliP2vtahwb_jyaf-16" target="AxBYcliP2vtahwb_jyaf-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AxBYcliP2vtahwb_jyaf-16" value="构造候选角色分布集合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="702.5" y="1090" width="100" height="40" as="geometry" />
+          <mxGeometry x="702.5" y="1150" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AxBYcliP2vtahwb_jyaf-17" value="DTW比较行为路径" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="1150" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AxBYcliP2vtahwb_jyaf-18" value="筛选最优角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1209" width="100" height="40" as="geometry" />
+          <mxGeometry x="702.5" y="1220" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
