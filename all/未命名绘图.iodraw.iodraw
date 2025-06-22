@@ -16,6 +16,9 @@
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-2" value="&lt;b&gt;业务处理层&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="580" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wpN_ip4xTsXW7F0Ydhbx-3" target="wpN_ip4xTsXW7F0Ydhbx-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="640" width="850" height="210" as="geometry" />
         </mxCell>
@@ -379,7 +382,7 @@
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-151" value="文件I/O接口/RESTful API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400.5" y="1740" width="910" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-160" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-160" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.679;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.679;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wpN_ip4xTsXW7F0Ydhbx-131" target="wpN_ip4xTsXW7F0Ydhbx-131">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1000" y="180" as="sourcePoint" />
             <mxPoint x="1050" y="130" as="targetPoint" />
