@@ -202,8 +202,11 @@
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="1500" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-85" value="InfluxDB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-85" value="Neo4j" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="850" y="1500" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-86" value="权限计算与推理日志" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1540" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
