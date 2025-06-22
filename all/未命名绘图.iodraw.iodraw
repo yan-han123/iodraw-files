@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wpN_ip4xTsXW7F0Ydhbx-1" target="wpN_ip4xTsXW7F0Ydhbx-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="580" width="910" height="1120" as="geometry" />
         </mxCell>
@@ -352,8 +355,14 @@
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-149" value="社群画像" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
           <mxGeometry x="904.5" y="340" width="82" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wpN_ip4xTsXW7F0Ydhbx-150" target="wpN_ip4xTsXW7F0Ydhbx-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-150" value="RESTful API/Web Socket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="500" width="910" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wpN_ip4xTsXW7F0Ydhbx-151" target="wpN_ip4xTsXW7F0Ydhbx-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-151" value="文件I/O接口/RESTful API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400.5" y="1740" width="910" height="40" as="geometry" />
