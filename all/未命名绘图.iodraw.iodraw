@@ -127,26 +127,8 @@
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="1450" width="640" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-49" value="权限规则库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="376" y="1590" width="76" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-50" value="PostgreSQL" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1520" width="80" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-51" value="数据对象" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="542" y="1590" width="76" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-52" value="InfluxDB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="660" y="1520" width="80" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-53" value="操作日志数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="662" y="1590" width="76" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-55" value="MongoDB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="790" y="1520" width="80" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1500" width="240" height="170" as="geometry" />
+          <mxGeometry x="120" y="1500" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-57" value="PostgreSQL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="1500" width="70" height="30" as="geometry" />
