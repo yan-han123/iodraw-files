@@ -419,8 +419,8 @@
         <mxCell id="AxBYcliP2vtahwb_jyaf-11" value="社群画像模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="930" width="85" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="AxBYcliP2vtahwb_jyaf-14" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="460" y="1060" width="210" height="210" as="geometry" />
+        <mxCell id="AxBYcliP2vtahwb_jyaf-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="950" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
