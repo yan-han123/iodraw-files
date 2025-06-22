@@ -118,6 +118,9 @@
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-35" value="权限分配与控制" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="920" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-124" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="955" width="160" height="290" as="geometry" />
+        </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wpN_ip4xTsXW7F0Ydhbx-37" target="wpN_ip4xTsXW7F0Ydhbx-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -141,9 +144,6 @@
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-40" value="条件判断执行权限继承" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="1177.5" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-124" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="955" width="160" height="290" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-41" value="PyMongo查询显式授权记录&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22DFS%E6%8F%90%E5%8F%96%E6%95%B0%E6%8D%AE%E4%BE%9D%E8%B5%96%E8%B7%AF%E5%BE%84%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22314%22%20y%3D%221129%22%20width%3D%22100%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="1060" width="100" height="40" as="geometry" />
