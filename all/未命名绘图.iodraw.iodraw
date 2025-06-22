@@ -10,6 +10,9 @@
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-2" value="&lt;b&gt;业务处理层&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="170" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-76" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="260" width="120" height="150" as="geometry" />
+        </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="230" width="810" height="210" as="geometry" />
         </mxCell>
@@ -150,9 +153,6 @@
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1500" width="300" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-76" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="260" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-64" value="MongoDB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="1500" width="70" height="30" as="geometry" />
