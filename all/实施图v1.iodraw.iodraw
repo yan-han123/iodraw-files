@@ -200,7 +200,7 @@
           <mxGeometry x="525" y="1910" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="1870" width="300" height="120" as="geometry" />
+          <mxGeometry x="620" y="1870" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-64" value="MongoDB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="620" y="1870" width="70" height="30" as="geometry" />
@@ -212,16 +212,16 @@
           <mxGeometry x="720" y="1910" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-67" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="930" y="1870" width="210" height="120" as="geometry" />
+          <mxGeometry x="840.5" y="1870" width="210" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-68" value="InfluxDB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="930" y="1870" width="70" height="30" as="geometry" />
+          <mxGeometry x="840.5" y="1870" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-69" value="操作日志数据" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="950" y="1910" width="80" height="60" as="geometry" />
+          <mxGeometry x="860.5" y="1910" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-70" value="权限计算与推理日志" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="1910" width="80" height="60" as="geometry" />
+          <mxGeometry x="950.5" y="1910" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1150" y="1870" width="140" height="120" as="geometry" />
