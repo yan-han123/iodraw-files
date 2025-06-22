@@ -349,7 +349,7 @@
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-149" value="社群画像" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
           <mxGeometry x="904.5" y="340" width="82" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-150" value="RestF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-150" value="RESTful API/Web Socket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="500" width="910" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-151" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
