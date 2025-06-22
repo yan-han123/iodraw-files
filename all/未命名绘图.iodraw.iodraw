@@ -148,8 +148,8 @@
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-65" value="权限规则库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="384" y="1540" width="66" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-66" value="显示授权记录" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="490" y="1540" width="70" height="60" as="geometry" />
+        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-66" value="显式授权记录" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1540" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
