@@ -413,6 +413,9 @@
         <mxCell id="AxBYcliP2vtahwb_jyaf-6" value="加权融合多维相似度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="595" y="1129" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="AxBYcliP2vtahwb_jyaf-11" value="Counter统计角色标签与路径" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="695" y="960" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
