@@ -314,7 +314,7 @@
           <mxGeometry x="399.5" y="320" width="80.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-136" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="443" y="370" width="277" height="140" as="geometry" />
+          <mxGeometry x="443" y="370" width="217" height="140" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-137" value="用户输入数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="521.5" y="370" width="83" height="30" as="geometry" />
@@ -323,10 +323,10 @@
           <mxGeometry x="460" y="420" width="82" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-139" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="733" y="370" width="247" height="140" as="geometry" />
+          <mxGeometry x="690" y="370" width="290" height="140" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-140" value="系统输入数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="816.5" y="370" width="83" height="30" as="geometry" />
+          <mxGeometry x="793.5" y="370" width="83" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-142" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1030" y="370" width="247" height="140" as="geometry" />
