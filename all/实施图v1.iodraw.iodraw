@@ -432,7 +432,7 @@
         <mxCell id="AxBYcliP2vtahwb_jyaf-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wpN_ip4xTsXW7F0Ydhbx-5" target="wpN_ip4xTsXW7F0Ydhbx-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bwCLuaHIobUdTFwwN9rn-1" value="权限规则模版" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+        <mxCell id="bwCLuaHIobUdTFwwN9rn-1" value="权限规则模版&lt;div&gt;(YAML)&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
           <mxGeometry x="898" y="340" width="82" height="60" as="geometry" />
         </mxCell>
       </root>
