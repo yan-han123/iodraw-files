@@ -333,7 +333,7 @@
           <mxGeometry x="460.5" y="340" width="82" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-139" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="690.5" y="290" width="310" height="140" as="geometry" />
+          <mxGeometry x="750" y="290" width="250.5" height="140" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-140" value="系统输入数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="794" y="290" width="83" height="30" as="geometry" />
