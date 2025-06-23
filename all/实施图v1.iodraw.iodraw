@@ -348,7 +348,7 @@
           <mxGeometry x="560.5" y="340" width="82" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-146" value="数据对象信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
-          <mxGeometry x="703.5" y="340" width="82" height="60" as="geometry" />
+          <mxGeometry x="650" y="340" width="82" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-147" value="历史操作数据" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
           <mxGeometry x="803.5" y="340" width="82" height="60" as="geometry" />
