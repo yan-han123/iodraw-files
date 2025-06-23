@@ -344,7 +344,7 @@
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-143" value="系统输出数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1112.5" y="290" width="83" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-144" value="协同场景信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
+        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-144" value="协同场景信息&lt;div&gt;(JSON)&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
           <mxGeometry x="552" y="340" width="82" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-146" value="数据对象信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
