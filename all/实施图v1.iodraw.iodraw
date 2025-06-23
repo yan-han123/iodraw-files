@@ -200,7 +200,7 @@
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-64" value="MongoDB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="620" y="1870" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-65" value="权限规则库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-65" value="权限规则库&lt;div&gt;(JSON)&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="634" y="1910" width="66" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-66" value="显式授权记录" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
