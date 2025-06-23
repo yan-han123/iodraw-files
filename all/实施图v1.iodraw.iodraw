@@ -353,7 +353,7 @@
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-147" value="历史操作日志数据" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
           <mxGeometry x="770" y="340" width="82" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-148" value="用户数据权限分配表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
+        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-148" value="用户数据权限分配表(JSON)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
           <mxGeometry x="1113.5" y="340" width="82" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wpN_ip4xTsXW7F0Ydhbx-150" target="wpN_ip4xTsXW7F0Ydhbx-1" edge="1">
