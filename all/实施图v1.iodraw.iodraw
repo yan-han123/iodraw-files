@@ -28,7 +28,7 @@
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wpN_ip4xTsXW7F0Ydhbx-10" target="wpN_ip4xTsXW7F0Ydhbx-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-10" value="Transformer上下文建模" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-10" value="Transformer上下文协同场景建模" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="695" y="735" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wpN_ip4xTsXW7F0Ydhbx-16" target="wpN_ip4xTsXW7F0Ydhbx-23" edge="1">
@@ -38,7 +38,7 @@
           <mxGeometry x="430" y="890" width="380" height="400" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-17" value="组织角色筛选模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="430" y="890" width="100" height="30" as="geometry" />
+          <mxGeometry x="430" y="890" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AxBYcliP2vtahwb_jyaf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wpN_ip4xTsXW7F0Ydhbx-18" target="wpN_ip4xTsXW7F0Ydhbx-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
