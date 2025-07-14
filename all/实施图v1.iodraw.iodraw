@@ -422,7 +422,7 @@
           <mxGeometry x="890" y="1040" width="380" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e165EQWnMe3506J2MNPM-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="894" y="1150" width="376" height="60" as="geometry" />
+          <mxGeometry x="894" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-28" value="构建分类树结构" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="1050" width="100" height="40" as="geometry" />
