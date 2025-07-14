@@ -412,15 +412,6 @@
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-27" value="构建初步分类节点集合" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1155" y="940" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wpN_ip4xTsXW7F0Ydhbx-27" target="wpN_ip4xTsXW7F0Ydhbx-28" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wpN_ip4xTsXW7F0Ydhbx-28" target="wpN_ip4xTsXW7F0Ydhbx-29" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-29" value="Numpy计算余弦相似度" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1130" y="1050" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wpN_ip4xTsXW7F0Ydhbx-29" target="wpN_ip4xTsXW7F0Ydhbx-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -428,6 +419,9 @@
           <mxGeometry x="960" y="1160" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wpN_ip4xTsXW7F0Ydhbx-31" target="wpN_ip4xTsXW7F0Ydhbx-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e165EQWnMe3506J2MNPM-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wpN_ip4xTsXW7F0Ydhbx-32" target="e165EQWnMe3506J2MNPM-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-32" value="DFS递归" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -452,6 +446,23 @@
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-28" value="构建分类树结构" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="1050" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wpN_ip4xTsXW7F0Ydhbx-28" target="wpN_ip4xTsXW7F0Ydhbx-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1090" y="1070" />
+              <mxPoint x="1090" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wpN_ip4xTsXW7F0Ydhbx-27" target="wpN_ip4xTsXW7F0Ydhbx-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-29" value="Numpy计算余弦相似度" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="1050" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e165EQWnMe3506J2MNPM-12" value="DFS递归" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950.5" y="1160" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
