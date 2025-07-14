@@ -412,17 +412,11 @@
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-27" value="构建初步分类节点集合" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1155" y="940" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wpN_ip4xTsXW7F0Ydhbx-29" target="wpN_ip4xTsXW7F0Ydhbx-31" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="e165EQWnMe3506J2MNPM-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e165EQWnMe3506J2MNPM-10" target="wpN_ip4xTsXW7F0Ydhbx-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="e165EQWnMe3506J2MNPM-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="1040" width="380" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e165EQWnMe3506J2MNPM-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="894" y="1150" width="120" height="60" as="geometry" />
+          <mxGeometry x="894" y="1150" width="366" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-28" value="构建分类树结构" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="1050" width="100" height="40" as="geometry" />
@@ -460,6 +454,9 @@
               <mxPoint x="1110" y="1210" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wpN_ip4xTsXW7F0Ydhbx-29" target="wpN_ip4xTsXW7F0Ydhbx-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
