@@ -416,11 +416,14 @@
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-27" value="构建初步分类节点集合" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1149" y="960" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="4sad9sH5kAsze64eFwQX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e165EQWnMe3506J2MNPM-10" target="e165EQWnMe3506J2MNPM-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e165EQWnMe3506J2MNPM-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="890" y="1040" width="380" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e165EQWnMe3506J2MNPM-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="894" y="1150" width="366" height="60" as="geometry" />
+          <mxGeometry x="897" y="1150" width="366" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-28" value="构建分类树结构" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="1050" width="100" height="40" as="geometry" />
