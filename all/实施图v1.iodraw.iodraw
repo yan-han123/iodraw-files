@@ -399,7 +399,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e165EQWnMe3506J2MNPM-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="889" y="935" width="376" height="70" as="geometry" />
+          <mxGeometry x="889" y="930" width="376" height="75" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-25" value="Scipy计算属性对语义相似度" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="898" y="960" width="100" height="40" as="geometry" />
@@ -464,6 +464,9 @@
         </mxCell>
         <mxCell id="4sad9sH5kAsze64eFwQX-3" value="加权相似度计算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="505.62" y="1100" width="106" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4sad9sH5kAsze64eFwQX-5" value="社群画像模型构建" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1024" y="930" width="106" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
