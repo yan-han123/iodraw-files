@@ -422,8 +422,11 @@
         <mxCell id="e165EQWnMe3506J2MNPM-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="887" y="1040" width="380" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="4sad9sH5kAsze64eFwQX-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e165EQWnMe3506J2MNPM-11" target="wpN_ip4xTsXW7F0Ydhbx-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e165EQWnMe3506J2MNPM-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="890" y="1150" width="380" height="60" as="geometry" />
+          <mxGeometry x="890" y="1150" width="380" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-28" value="构建分类树结构" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="957" y="1070" width="100" height="40" as="geometry" />
@@ -450,14 +453,6 @@
         </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-33" value="筛选有效依赖链" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1027" y="1240" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="wpN_ip4xTsXW7F0Ydhbx-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wpN_ip4xTsXW7F0Ydhbx-32" target="wpN_ip4xTsXW7F0Ydhbx-33" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1205" y="1210" />
-              <mxPoint x="1110" y="1210" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="4sad9sH5kAsze64eFwQX-2" value="社群画像模型构建" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510.63" y="920" width="106" height="30" as="geometry" />
