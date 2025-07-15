@@ -462,8 +462,8 @@
         <mxCell id="4sad9sH5kAsze64eFwQX-2" value="社群画像模型构建" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510.63" y="920" width="106" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4sad9sH5kAsze64eFwQX-3" value="社群画像模型构建" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520.63" y="930" width="106" height="30" as="geometry" />
+        <mxCell id="4sad9sH5kAsze64eFwQX-3" value="加权相似度计算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="505.62" y="1100" width="106" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
