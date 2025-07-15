@@ -469,8 +469,11 @@
         <mxCell id="4sad9sH5kAsze64eFwQX-19" value="权限知识库构建" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="792" y="1365" width="106" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="4sad9sH5kAsze64eFwQX-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4sad9sH5kAsze64eFwQX-20" target="wpN_ip4xTsXW7F0Ydhbx-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4sad9sH5kAsze64eFwQX-20" value="依赖权限继承" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="792" y="1510" width="106" height="30" as="geometry" />
+          <mxGeometry x="795" y="1497.5" width="106" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
