@@ -349,7 +349,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e165EQWnMe3506J2MNPM-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="432.25" y="930" width="252.75" height="130" as="geometry" />
+          <mxGeometry x="437.25" y="920" width="252.75" height="140" as="geometry" />
         </mxCell>
         <mxCell id="AxBYcliP2vtahwb_jyaf-16" value="构造候选角色分布集合" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="702.5" y="1170" width="100" height="40" as="geometry" />
