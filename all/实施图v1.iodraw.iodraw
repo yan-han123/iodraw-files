@@ -465,7 +465,7 @@
         <mxCell id="4sad9sH5kAsze64eFwQX-3" value="加权相似度计算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="505.62" y="1100" width="106" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4sad9sH5kAsze64eFwQX-5" value="社群画像模型构建" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4sad9sH5kAsze64eFwQX-5" value="数据分类聚类" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1024" y="930" width="106" height="30" as="geometry" />
         </mxCell>
       </root>
