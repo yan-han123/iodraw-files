@@ -459,8 +459,8 @@
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wpN_ip4xTsXW7F0Ydhbx-29" target="wpN_ip4xTsXW7F0Ydhbx-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4sad9sH5kAsze64eFwQX-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="534" y="920" width="60" height="30" as="geometry" />
+        <mxCell id="4sad9sH5kAsze64eFwQX-2" value="社群画像模型构建" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="534" y="920" width="106" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
