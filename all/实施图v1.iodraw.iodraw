@@ -58,14 +58,6 @@
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-124" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="463" y="1510" width="770" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="4sad9sH5kAsze64eFwQX-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wpN_ip4xTsXW7F0Ydhbx-120" target="4sad9sH5kAsze64eFwQX-20">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="845" y="1490" />
-              <mxPoint x="848" y="1490" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wpN_ip4xTsXW7F0Ydhbx-120" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="1365" width="770" height="105" as="geometry" />
         </mxCell>
