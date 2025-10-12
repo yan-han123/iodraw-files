@@ -66,8 +66,8 @@
         <mxCell id="U3HnsiKwZzp_KAs4vkwa-12" value="类型兼容性检查" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U3HnsiKwZzp_KAs4vkwa-14" value="是否符合本体约束" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="360" width="140" height="80" as="geometry" />
+        <mxCell id="U3HnsiKwZzp_KAs4vkwa-14" value="映射是否成功？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="530" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
