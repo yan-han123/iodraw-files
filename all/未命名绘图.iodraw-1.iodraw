@@ -82,7 +82,10 @@
         <mxCell id="U3HnsiKwZzp_KAs4vkwa-21" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="540" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U3HnsiKwZzp_KAs4vkwa-22" value="丢弃关系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U3HnsiKwZzp_KAs4vkwa-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U3HnsiKwZzp_KAs4vkwa-22" target="U3HnsiKwZzp_KAs4vkwa-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U3HnsiKwZzp_KAs4vkwa-22" value="输出标准关系三元组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="650" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
