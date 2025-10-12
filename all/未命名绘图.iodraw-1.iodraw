@@ -36,8 +36,8 @@
           <mxGeometry x="430" y="700" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
-          <mxGeometry x="0.325" y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
+          <mxGeometry x="-0.3445" y="20" relative="1" as="geometry">
+            <mxPoint x="5" y="3" as="offset" />
             <mxPoint x="220" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -80,7 +80,7 @@
           <mxGeometry x="330" y="550" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U3HnsiKwZzp_KAs4vkwa-21" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="370" width="40" height="30" as="geometry" />
+          <mxGeometry x="290" y="540" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
