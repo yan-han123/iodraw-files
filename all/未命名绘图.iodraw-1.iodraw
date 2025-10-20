@@ -83,6 +83,12 @@
         <mxCell id="3Q4qsCsi81shXGBcjdPO-26" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="698" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3Q4qsCsi81shXGBcjdPO-29" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="638" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q4qsCsi81shXGBcjdPO-30" value="count＞1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="385" y="190" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
