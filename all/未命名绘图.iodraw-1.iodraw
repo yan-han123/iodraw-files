@@ -19,17 +19,26 @@
         <mxCell id="3Q4qsCsi81shXGBcjdPO-3" value="count＞1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="260" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3Q4qsCsi81shXGBcjdPO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3Q4qsCsi81shXGBcjdPO-6" target="3Q4qsCsi81shXGBcjdPO-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3Q4qsCsi81shXGBcjdPO-6" value="HDBSCAN密度聚类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="235" y="300" width="135" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="3Q4qsCsi81shXGBcjdPO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3Q4qsCsi81shXGBcjdPO-7" target="3Q4qsCsi81shXGBcjdPO-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3Q4qsCsi81shXGBcjdPO-7" value="计算每个簇的质心&lt;div&gt;compute_centroid&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="235" y="380" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q4qsCsi81shXGBcjdPO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3Q4qsCsi81shXGBcjdPO-8" target="3Q4qsCsi81shXGBcjdPO-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3Q4qsCsi81shXGBcjdPO-8" value="合并相似簇&lt;div&gt;merge_similar_clusters&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="235" y="460" width="135" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3Q4qsCsi81shXGBcjdPO-9" value="将合并后的簇加入集合C" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="235" y="540" width="135" height="40" as="geometry" />
+          <mxGeometry x="235" y="544.5" width="135" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3Q4qsCsi81shXGBcjdPO-10" value="直接形成单独簇" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="413" y="300" width="135" height="40" as="geometry" />
