@@ -22,7 +22,7 @@
         <mxCell id="3Q4qsCsi81shXGBcjdPO-8" value="合并相似簇&lt;div&gt;merge_similar_clusters&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="235" y="460" width="135" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3Q4qsCsi81shXGBcjdPO-9" value="合并相似簇&lt;div&gt;merge_similar_clusters&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="3Q4qsCsi81shXGBcjdPO-9" value="将合并后的簇加入集合C" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="235" y="540" width="135" height="40" as="geometry" />
         </mxCell>
       </root>
