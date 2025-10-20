@@ -41,7 +41,12 @@
           <mxGeometry x="235" y="460" width="135" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3Q4qsCsi81shXGBcjdPO-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3Q4qsCsi81shXGBcjdPO-9" target="3Q4qsCsi81shXGBcjdPO-12">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="302" y="610" />
+              <mxPoint x="360" y="610" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="3Q4qsCsi81shXGBcjdPO-9" value="将合并后的簇加入集合C" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="235" y="544.5" width="135" height="40" as="geometry" />
@@ -63,11 +68,17 @@
         <mxCell id="3Q4qsCsi81shXGBcjdPO-11" value="将簇加入集合C" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="413" y="380" width="135" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="3Q4qsCsi81shXGBcjdPO-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3Q4qsCsi81shXGBcjdPO-12" target="3Q4qsCsi81shXGBcjdPO-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3Q4qsCsi81shXGBcjdPO-12" value="是否处理完所有实体组？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="620" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3Q4qsCsi81shXGBcjdPO-14" value="输出实体簇集合C" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="332.5" y="730" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q4qsCsi81shXGBcjdPO-26" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="395" y="698" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
