@@ -10,8 +10,11 @@
         <mxCell id="3Q4qsCsi81shXGBcjdPO-0" value="输入实体组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="235" y="110" width="135" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="3Q4qsCsi81shXGBcjdPO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3Q4qsCsi81shXGBcjdPO-1" target="3Q4qsCsi81shXGBcjdPO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3Q4qsCsi81shXGBcjdPO-1" value="实体组内提及数量？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="235" y="180" width="155" height="80" as="geometry" />
+          <mxGeometry x="225" y="180" width="155" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3Q4qsCsi81shXGBcjdPO-3" value="count＞1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="260" width="70" height="30" as="geometry" />
