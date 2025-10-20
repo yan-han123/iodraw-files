@@ -31,8 +31,8 @@
         <mxCell id="3Q4qsCsi81shXGBcjdPO-11" value="将簇加入集合C" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="413" y="380" width="135" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3Q4qsCsi81shXGBcjdPO-12" value="实体组内提及数量？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="245" y="190" width="140" height="80" as="geometry" />
+        <mxCell id="3Q4qsCsi81shXGBcjdPO-12" value="是否处理完所有实体组？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="620" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
