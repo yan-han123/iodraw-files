@@ -17,10 +17,10 @@
           <mxGeometry x="235" y="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3Q4qsCsi81shXGBcjdPO-7" value="计算每个簇的质心&lt;div&gt;compute_centroid&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="235" y="380" width="120" height="40" as="geometry" />
+          <mxGeometry x="235" y="380" width="135" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3Q4qsCsi81shXGBcjdPO-8" value="合并相似簇&lt;div&gt;merge_similar_clusters&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="235" y="460" width="120" height="40" as="geometry" />
+          <mxGeometry x="235" y="460" width="135" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
