@@ -22,11 +22,11 @@
         <mxCell id="xfnmHP02Ta1Gkk_JivLv-6" value="泵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="270" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xfnmHP02Ta1Gkk_JivLv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xfnmHP02Ta1Gkk_JivLv-7" target="xfnmHP02Ta1Gkk_JivLv-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="xfnmHP02Ta1Gkk_JivLv-7" value="传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="240" width="50" height="20" as="geometry" />
+          <mxGeometry x="80" y="225" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xfnmHP02Ta1Gkk_JivLv-11" value="传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="270" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
