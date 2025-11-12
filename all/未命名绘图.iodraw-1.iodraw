@@ -17,7 +17,10 @@
           <mxGeometry x="610" y="420" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="xfnmHP02Ta1Gkk_JivLv-6" value="泵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="410" width="40" height="20" as="geometry" />
+          <mxGeometry x="70" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xfnmHP02Ta1Gkk_JivLv-7" value="传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="240" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
