@@ -41,22 +41,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xfnmHP02Ta1Gkk_JivLv-16" value="泵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="280" width="40" height="20" as="geometry" />
+          <mxGeometry x="270" y="265" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xfnmHP02Ta1Gkk_JivLv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xfnmHP02Ta1Gkk_JivLv-18" target="xfnmHP02Ta1Gkk_JivLv-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xfnmHP02Ta1Gkk_JivLv-18" value="传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="235" width="50" height="20" as="geometry" />
+          <mxGeometry x="280" y="220" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xfnmHP02Ta1Gkk_JivLv-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xfnmHP02Ta1Gkk_JivLv-20" target="xfnmHP02Ta1Gkk_JivLv-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xfnmHP02Ta1Gkk_JivLv-20" value="控制柜" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="280" width="50" height="20" as="geometry" />
+          <mxGeometry x="370" y="265" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xfnmHP02Ta1Gkk_JivLv-21" value="域控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="200" width="50" height="30" as="geometry" />
+          <mxGeometry x="340" y="185" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfnmHP02Ta1Gkk_JivLv-22" value="域控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="210" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
