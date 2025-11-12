@@ -28,11 +28,35 @@
         <mxCell id="xfnmHP02Ta1Gkk_JivLv-7" value="传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="225" width="50" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="xfnmHP02Ta1Gkk_JivLv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xfnmHP02Ta1Gkk_JivLv-11" target="xfnmHP02Ta1Gkk_JivLv-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xfnmHP02Ta1Gkk_JivLv-11" value="控制柜" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="270" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xfnmHP02Ta1Gkk_JivLv-12" value="域控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="190" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfnmHP02Ta1Gkk_JivLv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xfnmHP02Ta1Gkk_JivLv-16" target="xfnmHP02Ta1Gkk_JivLv-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfnmHP02Ta1Gkk_JivLv-16" value="泵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xfnmHP02Ta1Gkk_JivLv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xfnmHP02Ta1Gkk_JivLv-18" target="xfnmHP02Ta1Gkk_JivLv-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfnmHP02Ta1Gkk_JivLv-18" value="传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="235" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xfnmHP02Ta1Gkk_JivLv-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xfnmHP02Ta1Gkk_JivLv-20" target="xfnmHP02Ta1Gkk_JivLv-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfnmHP02Ta1Gkk_JivLv-20" value="控制柜" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="280" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xfnmHP02Ta1Gkk_JivLv-21" value="域控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="200" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
