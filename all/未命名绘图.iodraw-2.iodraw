@@ -25,7 +25,7 @@
         <mxCell id="aA9O_hv7VoonLu40i2mP-6" value="传感器实时数据" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="370" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="aA9O_hv7VoonLu40i2mP-7" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="aA9O_hv7VoonLu40i2mP-6">
+        <mxCell id="aA9O_hv7VoonLu40i2mP-7" value="+健康分数&lt;div&gt;+评估时间&lt;br&gt;+雷达图数据&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="aA9O_hv7VoonLu40i2mP-6">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
