@@ -35,7 +35,7 @@
           <mxGeometry y="50" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="xJFs2P_7r_d7vR4uM4Ri-84" value="维保工单" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="480" width="160" height="190" as="geometry" />
+          <mxGeometry x="450" y="760" width="160" height="190" as="geometry" />
         </mxCell>
         <mxCell id="xJFs2P_7r_d7vR4uM4Ri-85" value="+工单ID&lt;div&gt;+关联预测ID&lt;/div&gt;&lt;div&gt;+设备ID&lt;/div&gt;&lt;div&gt;+故障类型&lt;/div&gt;&lt;div&gt;+优先级&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="xJFs2P_7r_d7vR4uM4Ri-84">
           <mxGeometry y="50" width="160" height="140" as="geometry" />
@@ -46,7 +46,7 @@
             <mxPoint x="450" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xJFs2P_7r_d7vR4uM4Ri-88" value="M" style="resizable=0;html=1;whiteSpace=wrap;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="xJFs2P_7r_d7vR4uM4Ri-87">
+        <mxCell id="xJFs2P_7r_d7vR4uM4Ri-88" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="xJFs2P_7r_d7vR4uM4Ri-87">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint y="20" as="offset" />
           </mxGeometry>
