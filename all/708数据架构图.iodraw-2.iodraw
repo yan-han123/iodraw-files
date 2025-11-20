@@ -4,12 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ndg1XFS05k8iyZyG62ZL-12" value="运维微服务" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="1790" width="160" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="ndg1XFS05k8iyZyG62ZL-13" value="+服务ID&lt;div&gt;+实例IP:Port&lt;/div&gt;&lt;div&gt;+健康状态&lt;/div&gt;&lt;div&gt;+关联ID&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="ndg1XFS05k8iyZyG62ZL-12">
-          <mxGeometry y="50" width="160" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="ndg1XFS05k8iyZyG62ZL-17" value="算法模型库" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="1790" width="160" height="120" as="geometry" />
         </mxCell>
@@ -310,10 +304,10 @@
             <mxPoint x="1060" y="1950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7VR3rGqVKMnVCTD1Be0P-7" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7VR3rGqVKMnVCTD1Be0P-5" target="ndg1XFS05k8iyZyG62ZL-13">
+        <mxCell id="7VR3rGqVKMnVCTD1Be0P-7" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7VR3rGqVKMnVCTD1Be0P-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="900" y="1950" as="sourcePoint" />
-            <mxPoint x="1060" y="1950" as="targetPoint" />
+            <mxPoint x="1289.6800000000003" y="1849.31" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2nkqhPmsWwHm_5bNchbR-1" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
