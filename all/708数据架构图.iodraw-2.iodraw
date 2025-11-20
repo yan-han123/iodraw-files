@@ -172,14 +172,16 @@
         <mxCell id="J34ywZ8A_uRR3GDTCOrm-12" value="配置" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="40" y="1750" width="120" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="J34ywZ8A_uRR3GDTCOrm-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.457;exitY=1.019;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ndg1XFS05k8iyZyG62ZL-43" target="J34ywZ8A_uRR3GDTCOrm-12">
+        <mxCell id="J34ywZ8A_uRR3GDTCOrm-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ndg1XFS05k8iyZyG62ZL-43" target="J34ywZ8A_uRR3GDTCOrm-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="1730" as="sourcePoint" />
             <mxPoint x="560" y="1730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J34ywZ8A_uRR3GDTCOrm-15" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="J34ywZ8A_uRR3GDTCOrm-14">
-          <mxGeometry x="1" relative="1" as="geometry" />
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
