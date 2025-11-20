@@ -83,8 +83,11 @@
         <mxCell id="ndg1XFS05k8iyZyG62ZL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="ndg1XFS05k8iyZyG62ZL-2" target="ndg1XFS05k8iyZyG62ZL-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ndg1XFS05k8iyZyG62ZL-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="335" y="978" width="50" height="30" as="geometry" />
+        <mxCell id="ndg1XFS05k8iyZyG62ZL-6" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="980" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ndg1XFS05k8iyZyG62ZL-7" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="980" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
