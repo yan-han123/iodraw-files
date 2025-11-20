@@ -279,13 +279,16 @@
           <mxGeometry x="980" y="2080" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J34ywZ8A_uRR3GDTCOrm-46" value="配置" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="414" y="1950" width="120" height="64" as="geometry" />
+          <mxGeometry x="420" y="1976" width="120" height="64" as="geometry" />
         </mxCell>
         <mxCell id="J34ywZ8A_uRR3GDTCOrm-48" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="ndg1XFS05k8iyZyG62ZL-35" target="J34ywZ8A_uRR3GDTCOrm-46">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="610" y="1930" as="sourcePoint" />
             <mxPoint x="770" y="1930" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="J34ywZ8A_uRR3GDTCOrm-50" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ndg1XFS05k8iyZyG62ZL-24" target="J34ywZ8A_uRR3GDTCOrm-46">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
