@@ -64,7 +64,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ek3bLLo0uuBLzR7i9nx1" name="第 2 页">
-    <mxGraphModel dx="279" dy="-1014" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1745" dy="-199" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -135,13 +135,13 @@
           <mxGeometry y="50" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ndg1XFS05k8iyZyG62ZL-42" value="传感器通道" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1540" width="160" height="170" as="geometry" />
+          <mxGeometry x="75" y="1440" width="160" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ndg1XFS05k8iyZyG62ZL-43" value="+通道ID（PK）&lt;br&gt;+传感器ID&lt;br&gt;+采集频率&lt;div&gt;+校准参数&lt;/div&gt;&lt;div&gt;+通道状态&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="ndg1XFS05k8iyZyG62ZL-42">
           <mxGeometry y="50" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ndg1XFS05k8iyZyG62ZL-44" value="原始传感器数据" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1860" width="160" height="170" as="geometry" />
+          <mxGeometry x="75" y="1760" width="160" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ndg1XFS05k8iyZyG62ZL-45" value="+数据ID&lt;br&gt;+通道ID&lt;br&gt;+采集时间&lt;div&gt;+原始值&lt;/div&gt;&lt;div&gt;+本地缓存标志&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="ndg1XFS05k8iyZyG62ZL-44">
           <mxGeometry y="50" width="160" height="120" as="geometry" />
@@ -170,12 +170,12 @@
           <mxGeometry x="370" y="1530" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J34ywZ8A_uRR3GDTCOrm-12" value="配置" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1750" width="120" height="64" as="geometry" />
+          <mxGeometry x="95" y="1650" width="120" height="64" as="geometry" />
         </mxCell>
         <mxCell id="J34ywZ8A_uRR3GDTCOrm-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ndg1XFS05k8iyZyG62ZL-43" target="J34ywZ8A_uRR3GDTCOrm-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="1730" as="sourcePoint" />
-            <mxPoint x="560" y="1730" as="targetPoint" />
+            <mxPoint x="455" y="1630" as="sourcePoint" />
+            <mxPoint x="615" y="1630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J34ywZ8A_uRR3GDTCOrm-15" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="J34ywZ8A_uRR3GDTCOrm-14">
@@ -185,12 +185,12 @@
         </mxCell>
         <mxCell id="J34ywZ8A_uRR3GDTCOrm-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="J34ywZ8A_uRR3GDTCOrm-12" target="ndg1XFS05k8iyZyG62ZL-44">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="1830" as="sourcePoint" />
-            <mxPoint x="350" y="1830" as="targetPoint" />
+            <mxPoint x="245" y="1730" as="sourcePoint" />
+            <mxPoint x="405" y="1730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J34ywZ8A_uRR3GDTCOrm-20" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1825" width="30" height="30" as="geometry" />
+          <mxGeometry x="135" y="1725" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J34ywZ8A_uRR3GDTCOrm-21" value="映射" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="510" y="1625" width="120" height="60" as="geometry" />
@@ -234,7 +234,7 @@
           <mxGeometry x="385" y="1738" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J34ywZ8A_uRR3GDTCOrm-31" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="175" y="1908" width="30" height="30" as="geometry" />
+          <mxGeometry x="230" y="1808" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J34ywZ8A_uRR3GDTCOrm-34" value="生成" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="590" y="1960" width="120" height="60" as="geometry" />
