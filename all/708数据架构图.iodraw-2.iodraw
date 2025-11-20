@@ -86,7 +86,7 @@
         <mxCell id="ndg1XFS05k8iyZyG62ZL-22" value="+模型ID&lt;div&gt;+设备ID&lt;/div&gt;&lt;div&gt;+文件路径&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="ndg1XFS05k8iyZyG62ZL-21">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ndg1XFS05k8iyZyG62ZL-23" value="告警记录" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ndg1XFS05k8iyZyG62ZL-23" value="故障库" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1960" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ndg1XFS05k8iyZyG62ZL-24" value="+告警ID&lt;div&gt;+设备ID&lt;/div&gt;&lt;div&gt;+告警等级&lt;/div&gt;&lt;div&gt;+出发时间&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="ndg1XFS05k8iyZyG62ZL-23">
@@ -294,7 +294,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J34ywZ8A_uRR3GDTCOrm-52" value="告警记录" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1970" width="160" height="120" as="geometry" />
+          <mxGeometry x="200" y="2150" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="J34ywZ8A_uRR3GDTCOrm-53" value="+告警ID&lt;div&gt;+设备ID&lt;/div&gt;&lt;div&gt;+告警等级&lt;/div&gt;&lt;div&gt;+出发时间&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="J34ywZ8A_uRR3GDTCOrm-52">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
