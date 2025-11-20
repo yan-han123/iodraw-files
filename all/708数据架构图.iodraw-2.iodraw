@@ -31,7 +31,13 @@
         <mxCell id="xJFs2P_7r_d7vR4uM4Ri-82" value="故障预测结果" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="230" width="160" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="xJFs2P_7r_d7vR4uM4Ri-83" value="+设备ID&lt;br&gt;+设备名称&lt;br&gt;+型号&lt;div&gt;+安装位置&lt;br&gt;&lt;div&gt;+所属分系统&lt;/div&gt;&lt;div&gt;+设计寿命&lt;/div&gt;&lt;/div&gt;&lt;div&gt;+累计运行时长&lt;/div&gt;&lt;div&gt;+当前状态&lt;/div&gt;&lt;div&gt;+健康评分&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="xJFs2P_7r_d7vR4uM4Ri-82">
+        <mxCell id="xJFs2P_7r_d7vR4uM4Ri-83" value="+预测ID&lt;div&gt;+设备ID/分系统ID&lt;/div&gt;&lt;div&gt;+模型ID&lt;/div&gt;&lt;div&gt;+预测时间&lt;/div&gt;&lt;div&gt;+风险等级&lt;/div&gt;&lt;div&gt;+剩余寿命&lt;/div&gt;&lt;div&gt;+寿命消耗&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="xJFs2P_7r_d7vR4uM4Ri-82">
+          <mxGeometry y="50" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="xJFs2P_7r_d7vR4uM4Ri-84" value="故障预测结果" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="240" width="160" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="xJFs2P_7r_d7vR4uM4Ri-85" value="+预测ID&lt;div&gt;+设备ID/分系统ID&lt;/div&gt;&lt;div&gt;+模型ID&lt;/div&gt;&lt;div&gt;+预测时间&lt;/div&gt;&lt;div&gt;+风险等级&lt;/div&gt;&lt;div&gt;+剩余寿命&lt;/div&gt;&lt;div&gt;+寿命消耗&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="xJFs2P_7r_d7vR4uM4Ri-84">
           <mxGeometry y="50" width="160" height="140" as="geometry" />
         </mxCell>
       </root>
