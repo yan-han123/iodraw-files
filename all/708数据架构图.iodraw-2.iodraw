@@ -75,7 +75,7 @@
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ndg1XFS05k8iyZyG62ZL-17" value="算法模型库" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="1880" width="160" height="120" as="geometry" />
+          <mxGeometry x="900" y="1800" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ndg1XFS05k8iyZyG62ZL-18" value="+算法ID&lt;div&gt;+适用场景&lt;/div&gt;&lt;div&gt;+文件路径&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="ndg1XFS05k8iyZyG62ZL-17">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
@@ -111,7 +111,7 @@
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ndg1XFS05k8iyZyG62ZL-33" value="备件库存" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="2180" width="160" height="120" as="geometry" />
+          <mxGeometry x="770" y="2210" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ndg1XFS05k8iyZyG62ZL-34" value="+备件ID&lt;div&gt;+当前库存量&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="ndg1XFS05k8iyZyG62ZL-33">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
@@ -259,6 +259,12 @@
         </mxCell>
         <mxCell id="J34ywZ8A_uRR3GDTCOrm-41" value="生成" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="800" y="2060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J34ywZ8A_uRR3GDTCOrm-42" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="1970" as="sourcePoint" />
+            <mxPoint x="720" y="1970" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
