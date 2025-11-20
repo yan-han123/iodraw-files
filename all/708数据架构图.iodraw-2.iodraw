@@ -64,7 +64,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ek3bLLo0uuBLzR7i9nx1" name="第 2 页">
-    <mxGraphModel dx="1047" dy="-587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="748" dy="-753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -365,8 +365,8 @@
         <mxCell id="7VR3rGqVKMnVCTD1Be0P-4" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1010" y="2180" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VR3rGqVKMnVCTD1Be0P-5" value="使用" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="780" y="1830" width="120" height="60" as="geometry" />
+        <mxCell id="7VR3rGqVKMnVCTD1Be0P-5" value="部署" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
