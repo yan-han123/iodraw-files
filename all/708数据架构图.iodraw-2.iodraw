@@ -92,8 +92,8 @@
         <mxCell id="ndg1XFS05k8iyZyG62ZL-9" value="需要" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="389" y="980" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ndg1XFS05k8iyZyG62ZL-10" value="维保建议" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="940" width="160" height="190" as="geometry" />
+        <mxCell id="ndg1XFS05k8iyZyG62ZL-10" value="维保工单" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="720" width="160" height="190" as="geometry" />
         </mxCell>
         <mxCell id="ndg1XFS05k8iyZyG62ZL-11" value="+建议ID&lt;div&gt;+工单ID&lt;/div&gt;&lt;div&gt;+方案&lt;/div&gt;&lt;div&gt;+理由&lt;/div&gt;&lt;div&gt;+成本&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="ndg1XFS05k8iyZyG62ZL-10">
           <mxGeometry y="50" width="160" height="140" as="geometry" />
