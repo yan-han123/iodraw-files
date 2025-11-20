@@ -278,6 +278,15 @@
         <mxCell id="J34ywZ8A_uRR3GDTCOrm-45" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="980" y="2080" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="J34ywZ8A_uRR3GDTCOrm-46" value="配置" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="414" y="1950" width="120" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="J34ywZ8A_uRR3GDTCOrm-48" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="1930" as="sourcePoint" />
+            <mxPoint x="770" y="1930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
