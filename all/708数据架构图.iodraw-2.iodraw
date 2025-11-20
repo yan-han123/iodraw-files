@@ -87,7 +87,7 @@
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ndg1XFS05k8iyZyG62ZL-23" value="故障库" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="2040" width="160" height="140" as="geometry" />
+          <mxGeometry x="1430" y="2040" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ndg1XFS05k8iyZyG62ZL-24" value="+故障ID&lt;div&gt;+设备ID&lt;/div&gt;&lt;div&gt;+故障事件&lt;/div&gt;&lt;div&gt;+处理方案&lt;/div&gt;&lt;div&gt;+处理状态&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="ndg1XFS05k8iyZyG62ZL-23">
           <mxGeometry y="50" width="160" height="90" as="geometry" />
@@ -309,7 +309,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J34ywZ8A_uRR3GDTCOrm-59" value="更新" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="2080" width="120" height="60" as="geometry" />
+          <mxGeometry x="1241" y="2080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J34ywZ8A_uRR3GDTCOrm-60" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ndg1XFS05k8iyZyG62ZL-26" target="J34ywZ8A_uRR3GDTCOrm-59">
           <mxGeometry relative="1" as="geometry">
@@ -322,6 +322,9 @@
             <mxPoint x="650" y="1930" as="sourcePoint" />
             <mxPoint x="810" y="1930" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="J34ywZ8A_uRR3GDTCOrm-62" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1925" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
