@@ -236,7 +236,7 @@
         <mxCell id="J34ywZ8A_uRR3GDTCOrm-31" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="175" y="1908" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J34ywZ8A_uRR3GDTCOrm-34" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="J34ywZ8A_uRR3GDTCOrm-34" value="部署" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="510" y="2160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
