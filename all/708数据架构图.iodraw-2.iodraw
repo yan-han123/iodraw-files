@@ -193,12 +193,18 @@
           <mxGeometry x="80" y="1825" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J34ywZ8A_uRR3GDTCOrm-21" value="映射" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1630" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="1625" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J34ywZ8A_uRR3GDTCOrm-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="J34ywZ8A_uRR3GDTCOrm-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="J34ywZ8A_uRR3GDTCOrm-21">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="1654.5" as="sourcePoint" />
             <mxPoint x="620" y="1654.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J34ywZ8A_uRR3GDTCOrm-24" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="J34ywZ8A_uRR3GDTCOrm-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="1660" as="sourcePoint" />
+            <mxPoint x="700" y="1660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
