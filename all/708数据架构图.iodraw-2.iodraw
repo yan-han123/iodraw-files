@@ -189,11 +189,8 @@
             <mxPoint x="350" y="1830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J34ywZ8A_uRR3GDTCOrm-19" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="J34ywZ8A_uRR3GDTCOrm-18">
-          <mxGeometry x="1" relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="J34ywZ8A_uRR3GDTCOrm-20" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="75" y="1818" width="30" height="30" as="geometry" />
+          <mxGeometry x="80" y="1825" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
