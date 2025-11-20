@@ -157,7 +157,7 @@
         </mxCell>
         <mxCell id="J34ywZ8A_uRR3GDTCOrm-7" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="J34ywZ8A_uRR3GDTCOrm-5">
           <mxGeometry x="-0.4985" y="1" relative="1" as="geometry">
-            <mxPoint x="18" as="offset" />
+            <mxPoint x="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J34ywZ8A_uRR3GDTCOrm-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="J34ywZ8A_uRR3GDTCOrm-3">
@@ -167,7 +167,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J34ywZ8A_uRR3GDTCOrm-8" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="384" y="1530" width="30" height="30" as="geometry" />
+          <mxGeometry x="370" y="1530" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J34ywZ8A_uRR3GDTCOrm-12" value="配置" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="40" y="1750" width="120" height="64" as="geometry" />
