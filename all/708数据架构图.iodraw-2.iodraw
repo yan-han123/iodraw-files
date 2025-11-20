@@ -216,9 +216,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J34ywZ8A_uRR3GDTCOrm-27" value="配置" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1874" width="120" height="64" as="geometry" />
+          <mxGeometry x="320" y="1890" width="120" height="64" as="geometry" />
         </mxCell>
         <mxCell id="J34ywZ8A_uRR3GDTCOrm-28" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ndg1XFS05k8iyZyG62ZL-39" target="J34ywZ8A_uRR3GDTCOrm-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="1810" as="sourcePoint" />
+            <mxPoint x="400" y="1810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J34ywZ8A_uRR3GDTCOrm-29" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ndg1XFS05k8iyZyG62ZL-45" target="J34ywZ8A_uRR3GDTCOrm-27">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="1810" as="sourcePoint" />
             <mxPoint x="400" y="1810" as="targetPoint" />
