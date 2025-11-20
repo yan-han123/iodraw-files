@@ -75,13 +75,16 @@
           <mxGeometry y="50" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ndg1XFS05k8iyZyG62ZL-3" value="备件库存" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="930" width="160" height="190" as="geometry" />
+          <mxGeometry x="500" y="930" width="160" height="190" as="geometry" />
         </mxCell>
         <mxCell id="ndg1XFS05k8iyZyG62ZL-4" value="+备件ID&lt;div&gt;+备件名称&lt;/div&gt;&lt;div&gt;+备件规格&lt;/div&gt;&lt;div&gt;+备件库存量&lt;/div&gt;&lt;div&gt;+备件阙值&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="ndg1XFS05k8iyZyG62ZL-3">
           <mxGeometry y="50" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ndg1XFS05k8iyZyG62ZL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="ndg1XFS05k8iyZyG62ZL-2" target="ndg1XFS05k8iyZyG62ZL-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ndg1XFS05k8iyZyG62ZL-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="978" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
