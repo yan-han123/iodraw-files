@@ -93,7 +93,7 @@
           <mxGeometry y="50" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ndg1XFS05k8iyZyG62ZL-25" value="维保工单" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="2040" width="160" height="140" as="geometry" />
+          <mxGeometry x="930" y="2040" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ndg1XFS05k8iyZyG62ZL-26" value="+工单ID&lt;div&gt;+预测ID&lt;/div&gt;&lt;div&gt;+设备ID&lt;/div&gt;&lt;div&gt;+建议ID&lt;/div&gt;&lt;div&gt;+优先级&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="ndg1XFS05k8iyZyG62ZL-25">
           <mxGeometry y="50" width="160" height="90" as="geometry" />
@@ -273,7 +273,7 @@
           <mxGeometry x="730" y="2080" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J34ywZ8A_uRR3GDTCOrm-45" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="980" y="2080" width="30" height="30" as="geometry" />
+          <mxGeometry x="900" y="2080" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J34ywZ8A_uRR3GDTCOrm-46" value="添加" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="420" y="1976" width="120" height="64" as="geometry" />
