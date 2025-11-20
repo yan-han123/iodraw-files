@@ -105,7 +105,7 @@
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ndg1XFS05k8iyZyG62ZL-31" value="用户" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="1770" width="160" height="120" as="geometry" />
+          <mxGeometry x="980" y="1825" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ndg1XFS05k8iyZyG62ZL-32" value="+用户ID&lt;div&gt;+角色/权限&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="ndg1XFS05k8iyZyG62ZL-31">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
@@ -208,7 +208,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J34ywZ8A_uRR3GDTCOrm-25" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="465" y="1625" width="30" height="30" as="geometry" />
+          <mxGeometry x="460" y="1625" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J34ywZ8A_uRR3GDTCOrm-26" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="395" y="1443" as="geometry">
+            <mxPoint x="307" y="202" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
