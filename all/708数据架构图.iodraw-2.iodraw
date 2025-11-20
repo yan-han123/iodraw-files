@@ -146,7 +146,7 @@
         <mxCell id="ndg1XFS05k8iyZyG62ZL-45" value="+数据ID&lt;br&gt;+通道ID&lt;br&gt;+采集时间&lt;div&gt;+原始值&lt;/div&gt;&lt;div&gt;+本地缓存标志&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="ndg1XFS05k8iyZyG62ZL-44">
           <mxGeometry y="50" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="J34ywZ8A_uRR3GDTCOrm-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="J34ywZ8A_uRR3GDTCOrm-3" target="ndg1XFS05k8iyZyG62ZL-41">
+        <mxCell id="J34ywZ8A_uRR3GDTCOrm-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="J34ywZ8A_uRR3GDTCOrm-3" target="ndg1XFS05k8iyZyG62ZL-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J34ywZ8A_uRR3GDTCOrm-3" value="属于" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
