@@ -50,7 +50,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Does it comply with ontology constraints?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="150" y="350" width="140" height="80" as="geometry" />
+          <mxGeometry x="120" y="350" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U3HnsiKwZzp_KAs4vkwa-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="U3HnsiKwZzp_KAs4vkwa-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -73,7 +73,7 @@
           <mxGeometry x="290" y="360" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U3HnsiKwZzp_KAs4vkwa-12" value="Logical Verification Based on Ontology Rules" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="130" y="280" width="190" height="40" as="geometry" />
+          <mxGeometry x="125" y="280" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U3HnsiKwZzp_KAs4vkwa-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U3HnsiKwZzp_KAs4vkwa-14" target="U3HnsiKwZzp_KAs4vkwa-7" edge="1">
           <mxGeometry relative="1" as="geometry">
