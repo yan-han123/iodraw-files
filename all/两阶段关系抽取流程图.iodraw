@@ -67,7 +67,7 @@
         <mxCell id="U3HnsiKwZzp_KAs4vkwa-10" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="290" y="360" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U3HnsiKwZzp_KAs4vkwa-12" value="基于本体规则的&lt;div&gt;逻辑验证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="U3HnsiKwZzp_KAs4vkwa-12" value="Logical Verification Based on Ontology Rules" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U3HnsiKwZzp_KAs4vkwa-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U3HnsiKwZzp_KAs4vkwa-14" target="U3HnsiKwZzp_KAs4vkwa-7" edge="1">
